@@ -1,8 +1,8 @@
 # PaperPair 使用方式
 
-[返回项目介绍](../README.md)
+[返回项目介绍](../README.zh-CN.md)
 
-本文介绍已有预览版本的操作方式。公开安装包下载尚未开放，发布信息请查看[项目介绍](../README.md)或 [koko 的爱发电主页](https://afdian.com/a/paperpair)。
+本文介绍已有预览版本的操作方式。公开安装包下载尚未开放，发布信息请查看[项目介绍](../README.zh-CN.md)或 [爱发电项目主页](https://afdian.com/a/paperpair)。
 
 ## 1. 导入论文
 
